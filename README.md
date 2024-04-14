@@ -87,6 +87,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Markdown](#markdown)
 - [MySQL](#mysql)
 - [NodeJS](#nodejs)
+- [Next.js](#nextjs)
 - [Operating Systems](#operating-systems)
 - [PHP](#php)
 - [PostgreSQL](#postgresql)
@@ -967,6 +968,18 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Backend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiHI7u_6G8j1oKyhQn_plX8i)
 - :books: [30 Days of Node](https://www.nodejsera.com/30-days-of-node.html)
 - :file_folder: [Node.js Documentation](https://nodejs.org/en/docs/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Next.js
+
+- :video_camera: [Next.js 14 Full course](https://www.youtube.com/watch?v=wm5gMKuwSYk)
+- :books: [introduction to Next.js](https://nextjs.org/learn/dashboard-app)
+- :file_folder: [Next.js Documentationen](https://nextjs.org/docs)
+- :speaker: [Next.js introduction podcast](https://www.ladybug.dev/episodes/nextjs)
+- :video_camera: [tutorial all 12 concepts you need to know](https://www.youtube.com/watch?v=vwSlYG7hFk0)
 
 ---
 
