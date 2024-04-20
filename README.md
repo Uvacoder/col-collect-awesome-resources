@@ -1277,6 +1277,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
 - :video_camera: [Frontend with HTML CSS JS & Browser APIs](https://youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC)
+- :video_camera: [Sigma Web Development Course - CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=zzeabgZ5Mej1yR6H)
 - :bulb: [Frontendmentor.io Design To Code Frontend Challenges](https://www.frontendmentor.io)
 - :bulb: [Codewell.cc Design To Code Frontend Challenges](https://www.codewell.cc)
 
