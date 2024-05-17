@@ -210,6 +210,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Build Your First Wit App](https://wit.ai/docs/quickstart)
 - :green_book: [How to Make a Twitter Bot in Python With Tweepy](https://realpython.com/twitter-bot-python-tweepy/)
 - :video_camera: [Discord.JS v13 - Make your own Discord bots by following this video series](https://www.youtube.com/playlist?list=PLaxxQQak6D_f4Z5DtQo0b1McgjLVHmE8Q)
+- :green_book: [Running Discord Bots 24/7 for Free with Replit and Uptime Robot](https://infosecwriteups.com/running-discord-bots-24-7-for-free-with-replit-and-uptime-robot-43caebb0cb60)
 
 ---
 
